@@ -1,4 +1,5 @@
 // implement TreeNode
+// https://www.udemy.com/course/coding-interview-bootcamp-algorithms-and-data-structure/learn/lecture/8547218#overview
 class TreeNode<T> {
 
     private _data: T | undefined;
